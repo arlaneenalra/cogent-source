@@ -7,6 +7,6 @@ Standards-Version: 3.8.3
 Homepage: http://www.cogent-it.com/software/cogent-source 
 
 Package: cogent-source
-Architecture: any
+Architecture: all
 Depends:
 Description: An update source for the various cogent managed packages.
