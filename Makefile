@@ -13,6 +13,9 @@ install:
 		exit 1 ; \
 	fi
 
+
 	cp -r etc ${PACKAGE_INSTALL}
 
+	find ./etc -type f > debian/conffiles
+	sed -i -e 's/^\.//' debian/conffiles
 	
