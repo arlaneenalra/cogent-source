@@ -6,7 +6,7 @@ Build-Depends: debhelper (>= 7)
 Standards-Version: 3.8.3
 Homepage: http://www.cogent-it.com/software/cogent-source 
 
-Package: cogent-course
+Package: cogent-source
 Architecture: any
 Depends:
 Description: An update source for the various cogent managed packages.
