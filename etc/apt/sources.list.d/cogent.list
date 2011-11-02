@@ -1,4 +1,4 @@
 # package sources
-deb file:/home/jules/code/repo binary
-deb-src file:/home/jules/code/repo binary
+deb file:/home/jules/code/repo binary/
+deb-src file:/home/jules/code/repo binary/
 
